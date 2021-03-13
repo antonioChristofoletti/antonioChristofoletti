@@ -1,10 +1,12 @@
-## Me
+## Who I am
 
-Hello there, I am Antonio and this is my personal repo, currently I am working and learning more about backend. I generally like to push my projects to here.
+Hello there, I am Antonio and this is my personal repository. Currently I am working and learning more about backend. I generally like to push my projects to here.
 
-Check a little about the languages that I mostly have worked:
+Check a little about the languages that I mostly have worked.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonioChristofoletti&layout=compact&langs_count=10&theme=tokyonight)
+
+## My Contributions
 
 ![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonioChristofoletti&show_icons=true&count_private=true&theme=tokyonight)
 
@@ -12,5 +14,5 @@ Check a little about the languages that I mostly have worked:
 
 Feel free to contact me on these plataforms:
 
-- [LinkedIn](https://www.linkedin.com/in/antonio-c-94b05310b/);
-- [E-mail](mailto:antoniochristofoletti123@gmail.com?subject=[GitHub]%20Source%20Han%20Sans).
+- [LinkedIn](https://www.linkedin.com/in/antonio-c-94b05310b/)
+- [E-mail](mailto:antoniochristofoletti123@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
