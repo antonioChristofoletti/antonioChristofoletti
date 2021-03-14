@@ -41,6 +41,13 @@ The languages that I most used here and my contributions on the platform.
 
 ## Contact
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
 Feel free to contact me on these plataforms:
 
 - [LinkedIn](https://www.linkedin.com/in/antonio-c-94b05310b/)
