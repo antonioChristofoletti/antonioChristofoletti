@@ -4,8 +4,6 @@ Hello there, I am Antonio from Brazil and this is my personal repository. Curren
 
 The languages that I most used here and my contributions on the platform.
 
-<br/>
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonioChristofoletti&layout=compact&langs_count=10&theme=tokyonight" alt="Top Langs"/>
 </a>
@@ -13,18 +11,17 @@ The languages that I most used here and my contributions on the platform.
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=antonioChristofoletti&show_icons=true&count_private=true&theme=tokyonight" alt="Antonio's GitHub stats"/>
 </a>
 
-<br/>
-
 ## Pinned
 
 <a href="https://github.com/antonioChristofoletti/College_ADS_TCC_SoftAlert_App">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonioChristofoletti&repo=College_ADS_TCC_SoftAlert_App&theme=tokyonight" alt="Top Langs"/>
 </a>
+
+<br/>
+
 <a href="https://github.com/antonioChristofoletti/nodejs-express-api-testing-auth">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=antonioChristofoletti&repo=nodejs-express-api-testing-auth&theme=tokyonight" alt="Antonio's GitHub stats"/>
 </a>
-
-<br/>
 
 <a href="https://github.com/antonioChristofoletti/guia-bolso-desafio-tecnico-api">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonioChristofoletti&repo=guia-bolso-desafio-tecnico-api&theme=tokyonight" alt="Antonio's GitHub stats"/>
