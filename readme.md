@@ -14,7 +14,7 @@ The languages that I most used here and my contributions on the platform.
 
 ## Pinned
 
-<a href="https://github.com/antonioChristofoletti/College_ADS_TCC_SoftAlert_App">
+<a href="https://github.com/antonioChristofoletti/College_ADS_TCC_SoftAlert_App" style="background-color:blue;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonioChristofoletti&repo=College_ADS_TCC_SoftAlert_App&theme=tokyonight" alt="Top Langs"/>
 </a>
 
