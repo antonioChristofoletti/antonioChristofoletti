@@ -4,7 +4,7 @@ Hello there, I am Antonio from Brazil and this is my personal repository. Curren
 
 The languages that I most used here and my contributions on the platform.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats" style="background-color: red">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonioChristofoletti&layout=compact&langs_count=10&theme=tokyonight" alt="Top Langs"/>
 </a>
 
