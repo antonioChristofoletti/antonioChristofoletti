@@ -13,7 +13,29 @@ The languages that I most used here and my contributions on the platform.
 
 ## Pinned
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/antonioChristofoletti/College_ADS_TCC_SoftAlert_App">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonioChristofoletti&repo=College_ADS_TCC_SoftAlert_App&theme=tokyonight" alt="Top Langs"/>
+</a>
+
+<a href="https://github.com/antonioChristofoletti/nodejs-express-api-testing-auth">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=antonioChristofoletti&repo=nodejs-express-api-testing-auth&theme=tokyonight" alt="Antonio's GitHub stats"/>
+</a>
+
+<a href="https://github.com/antonioChristofoletti/guia-bolso-desafio-tecnico-api">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=antonioChristofoletti&repo=guia-bolso-desafio-tecnico-api&theme=tokyonight" alt="Antonio's GitHub stats"/>
+</a>
+
+<a href="https://github.com/antonioChristofoletti/course-alura-nodejs">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=antonioChristofoletti&repo=course-alura-nodejs&theme=tokyonight" alt="Antonio's GitHub stats"/>
+</a>
+
+<a href="https://github.com/antonioChristofoletti/course-alura-docker">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=antonioChristofoletti&repo=course-alura-docker&theme=tokyonight" alt="Antonio's GitHub stats"/>
+</a>
+
+<a href="https://github.com/antonioChristofoletti/course-alura-javascript">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=antonioChristofoletti&repo=course-alura-javascript&theme=tokyonight" alt="Antonio's GitHub stats"/>
+</a>
 
 ## Contact
 
