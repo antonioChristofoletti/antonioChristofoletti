@@ -12,36 +12,6 @@ The languages that I most used here and my contributions on the platform.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=antonioChristofoletti&show_icons=true&count_private=true&theme=tokyonight" alt="Antonio's GitHub stats"/>
 </a>
 
-## Pinned
-
-<a href="https://github.com/antonioChristofoletti/College_ADS_TCC_SoftAlert_App" style="margin: 10px">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonioChristofoletti&repo=College_ADS_TCC_SoftAlert_App&theme=tokyonight" alt="Top Langs"/>
-</a>
-
-<a href="https://github.com/antonioChristofoletti/nodejs-express-api-testing-auth" style="margin: 10px">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonioChristofoletti&repo=nodejs-express-api-testing-auth&theme=tokyonight" alt="Antonio's GitHub stats"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/antonioChristofoletti/guia-bolso-desafio-tecnico-api" style="margin: 10px">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonioChristofoletti&repo=guia-bolso-desafio-tecnico-api&theme=tokyonight" alt="Antonio's GitHub stats"/>
-</a>
-
-<a href="https://github.com/antonioChristofoletti/course-alura-nodejs" style="margin: 10px">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonioChristofoletti&repo=course-alura-nodejs&theme=tokyonight" alt="Antonio's GitHub stats"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/antonioChristofoletti/course-alura-docker" style="margin: 10px">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonioChristofoletti&repo=course-alura-docker&theme=tokyonight" alt="Antonio's GitHub stats"/>
-</a>
-
-<a href="https://github.com/antonioChristofoletti/course-alura-javascript" style="margin: 10px">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonioChristofoletti&repo=course-alura-javascript&theme=tokyonight" alt="Antonio's GitHub stats"/>
-</a>
-
 ## Contact
 
 Feel free to contact me on these plataforms:
