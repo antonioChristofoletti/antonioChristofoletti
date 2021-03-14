@@ -10,6 +10,8 @@ Hello there, I am Antonio and this is my personal repository. Currently I am wor
 
 Feel free to contact me on these platforms:
 
-- [LinkedIn](https://www.linkedin.com/in/antonio-c-94b05310b/)
-- [E-mail](mailto:antoniochristofoletti123@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
-- [Instagram (I am there, but not often)](https://www.instagram.com/antonio.christofoletti/)
+[![My LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://https://www.linkedin.com/in/antonio-c-94b05310b/)](https://www.linkedin.com/in/antonioChristofoletti/)
+
+[![My Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://https://www.instagram.com/antonio.christofoletti/)](https://www.instagram.com/antonio.christofoletti/)
+
+[![My E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:antoniochristofoletti123@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)](mailto:antoniochristofoletti123@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
