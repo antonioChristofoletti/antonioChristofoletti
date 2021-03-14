@@ -22,7 +22,7 @@ The languages that I most used here and my contributions on the platform.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonioChristofoletti&repo=nodejs-express-api-testing-auth&theme=tokyonight" alt="Antonio's GitHub stats"/>
 </a>
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/antonioChristofoletti/guia-bolso-desafio-tecnico-api">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonioChristofoletti&repo=guia-bolso-desafio-tecnico-api&theme=tokyonight" alt="Antonio's GitHub stats"/>
