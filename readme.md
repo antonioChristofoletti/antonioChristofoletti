@@ -13,12 +13,12 @@ The languages that I most used here and my contributions on the platform.
 
 ## Pinned
 
-<a href="https://github.com/antonioChristofoletti/College_ADS_TCC_SoftAlert_App">
+<a href="https://github.com/antonioChristofoletti/College_ADS_TCC_SoftAlert_App" style="margin-right: 5px">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonioChristofoletti&repo=College_ADS_TCC_SoftAlert_App&theme=tokyonight" alt="Top Langs"/>
 </a>
 
 <a href="https://github.com/antonioChristofoletti/nodejs-express-api-testing-auth">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=antonioChristofoletti&repo=nodejs-express-api-testing-auth&theme=tokyonight" alt="Antonio's GitHub stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonioChristofoletti&repo=nodejs-express-api-testing-auth&theme=tokyonight" alt="Antonio's GitHub stats"/>
 </a>
 
 <br/>
@@ -28,7 +28,7 @@ The languages that I most used here and my contributions on the platform.
 </a>
 
 <a href="https://github.com/antonioChristofoletti/course-alura-nodejs">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=antonioChristofoletti&repo=course-alura-nodejs&theme=tokyonight" alt="Antonio's GitHub stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonioChristofoletti&repo=course-alura-nodejs&theme=tokyonight" alt="Antonio's GitHub stats"/>
 </a>
 
 <a href="https://github.com/antonioChristofoletti/course-alura-docker">
@@ -36,17 +36,10 @@ The languages that I most used here and my contributions on the platform.
 </a>
 
 <a href="https://github.com/antonioChristofoletti/course-alura-javascript">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=antonioChristofoletti&repo=course-alura-javascript&theme=tokyonight" alt="Antonio's GitHub stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonioChristofoletti&repo=course-alura-javascript&theme=tokyonight" alt="Antonio's GitHub stats"/>
 </a>
 
 ## Contact
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
 
 Feel free to contact me on these plataforms:
 
