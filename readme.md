@@ -30,7 +30,7 @@ The languages that I most used here and my contributions on the platform.
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=antonioChristofoletti&repo=course-alura-nodejs&theme=tokyonight" alt="Antonio's GitHub stats"/>
 </a>
 
-<br/>
+</br> <br/>
 
 <a href="https://github.com/antonioChristofoletti/course-alura-docker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonioChristofoletti&repo=course-alura-docker&theme=tokyonight" alt="Antonio's GitHub stats"/>
