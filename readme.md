@@ -11,5 +11,5 @@ Hello there, I am Antonio and this is my personal repository. Currently I am wor
 Feel free to contact me on these platforms:
 
 - [LinkedIn](https://www.linkedin.com/in/antonio-c-94b05310b/)
-- [Instagram](https://www.instagram.com/antonio.christofoletti/)
 - [E-mail](mailto:antoniochristofoletti123@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+- [Instagram (I am there, but not often)](https://www.instagram.com/antonio.christofoletti/)
