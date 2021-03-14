@@ -7,8 +7,9 @@ The languages that I most used here and my contributions on the platform.
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonioChristofoletti&layout=compact&langs_count=10&theme=tokyonight" alt="Top Langs"/>
 </a>
+
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=antonioChristofoletti&show_icons=true&count_private=true&theme=tokyonight" alt="Antonio's GitHub stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=antonioChristofoletti&show_icons=true&count_private=true&theme=tokyonight" alt="Antonio's GitHub stats"/>
 </a>
 
 ## Pinned
