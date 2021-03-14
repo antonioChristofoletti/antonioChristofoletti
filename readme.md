@@ -26,15 +26,15 @@ The languages that I most used here and my contributions on the platform.
 <a href="https://github.com/antonioChristofoletti/guia-bolso-desafio-tecnico-api">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonioChristofoletti&repo=guia-bolso-desafio-tecnico-api&theme=tokyonight" alt="Antonio's GitHub stats"/>
 </a>
+
 <a href="https://github.com/antonioChristofoletti/course-alura-nodejs">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=antonioChristofoletti&repo=course-alura-nodejs&theme=tokyonight" alt="Antonio's GitHub stats"/>
 </a>
 
-</br> <br/>
-
 <a href="https://github.com/antonioChristofoletti/course-alura-docker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonioChristofoletti&repo=course-alura-docker&theme=tokyonight" alt="Antonio's GitHub stats"/>
 </a>
+
 <a href="https://github.com/antonioChristofoletti/course-alura-javascript">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=antonioChristofoletti&repo=course-alura-javascript&theme=tokyonight" alt="Antonio's GitHub stats"/>
 </a>
