@@ -14,7 +14,7 @@ The languages that I most used here and my contributions on the platform.
 ## Pinned
 
 <a href="https://github.com/antonioChristofoletti/College_ADS_TCC_SoftAlert_App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonioChristofoletti&repo=College_ADS_TCC_SoftAlert_App&theme=tokyonight" alt="Top Langs"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=antonioChristofoletti&repo=College_ADS_TCC_SoftAlert_App&theme=tokyonight" alt="Top Langs"/>
 </a>
 
 <a href="https://github.com/antonioChristofoletti/nodejs-express-api-testing-auth">
