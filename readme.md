@@ -4,7 +4,7 @@ Hello there, I am Antonio from Brazil and this is my personal repository. Curren
 
 The languages that I most used here and my contributions on the platform.
 
-<a href="https://github.com/anuraghazra/github-readme-stats" style="background-color: red">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonioChristofoletti&layout=compact&langs_count=10&theme=tokyonight" alt="Top Langs"/>
 </a>
 
@@ -14,31 +14,31 @@ The languages that I most used here and my contributions on the platform.
 
 ## Pinned
 
-<a href="https://github.com/antonioChristofoletti/College_ADS_TCC_SoftAlert_App" style="background-color:blue;">
+<a href="https://github.com/antonioChristofoletti/College_ADS_TCC_SoftAlert_App" style="margin: 10px">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonioChristofoletti&repo=College_ADS_TCC_SoftAlert_App&theme=tokyonight" alt="Top Langs"/>
 </a>
 
-<a href="https://github.com/antonioChristofoletti/nodejs-express-api-testing-auth">
+<a href="https://github.com/antonioChristofoletti/nodejs-express-api-testing-auth" style="margin: 10px">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonioChristofoletti&repo=nodejs-express-api-testing-auth&theme=tokyonight" alt="Antonio's GitHub stats"/>
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/antonioChristofoletti/guia-bolso-desafio-tecnico-api">
+<a href="https://github.com/antonioChristofoletti/guia-bolso-desafio-tecnico-api" style="margin: 10px">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonioChristofoletti&repo=guia-bolso-desafio-tecnico-api&theme=tokyonight" alt="Antonio's GitHub stats"/>
 </a>
 
-<a href="https://github.com/antonioChristofoletti/course-alura-nodejs">
+<a href="https://github.com/antonioChristofoletti/course-alura-nodejs" style="margin: 10px">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonioChristofoletti&repo=course-alura-nodejs&theme=tokyonight" alt="Antonio's GitHub stats"/>
 </a>
 
 <br/>
 
-<a href="https://github.com/antonioChristofoletti/course-alura-docker">
+<a href="https://github.com/antonioChristofoletti/course-alura-docker" style="margin: 10px">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonioChristofoletti&repo=course-alura-docker&theme=tokyonight" alt="Antonio's GitHub stats"/>
 </a>
 
-<a href="https://github.com/antonioChristofoletti/course-alura-javascript">
+<a href="https://github.com/antonioChristofoletti/course-alura-javascript" style="margin: 10px">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=antonioChristofoletti&repo=course-alura-javascript&theme=tokyonight" alt="Antonio's GitHub stats"/>
 </a>
 
