@@ -1,6 +1,6 @@
 ## Me
 
-Hello there, I am Antonio and welcome to my personal repository. Currently I am working and learning more about backend and devOps (My favorite part).
+Hello there, I am Antonio and welcome to my personal repository. Currently I am working and learning more about backend/devOps.
 
 I generally like to push my projects here. I also like to try new languages and frameworks.
 
