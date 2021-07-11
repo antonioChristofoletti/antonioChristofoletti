@@ -1,6 +1,10 @@
 ## Me
 
-Hello there, I am Antonio and this is my personal repository. Currently I am working and learning more about backend. I generally like to push my projects here. I also like to try new languages and frameworks. Check down below some of the stuffs that I already made here:
+Hello there, I am Antonio and welcome to my personal repository. Currently I am working and learning more about backend and devOps (My favorite part).
+
+I generally like to push my projects here. I also like to try new languages and frameworks.
+
+Check down below some of the stuffs that I already made here:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonioChristofoletti&layout=compact&langs_count=20&theme=tokyonight&exclude_repo=College_ADS_PsiqueSis_Desktop,College_ADS_Chronos_App)
 
